@@ -1,0 +1,6 @@
+Flask
+prometheus-client
+scikit-learn
+numpy
+gunicorn
+pytest
